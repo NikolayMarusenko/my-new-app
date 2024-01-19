@@ -1,0 +1,1 @@
+1. Application my-new-app has been successfully deployed!!
